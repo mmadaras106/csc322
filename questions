@@ -1,0 +1,12 @@
+Checkpoint 4: images 2 and 3 are different because 3 has a lot less pixels to display the same information. The image is a lot smaller on the screen, so you have to zoom in, and 
+              the edges are not smooth like in image 2.
+Checkpoint 6: images 2 and 5 are different because 5 is a lot darker. By decreasing the Gamma below 1, the general brightness of the scene decreased and made everything darker
+
+1. Light can pass through an object if it is clear, or reflect off the object specularally like a mirror, or reflect diffusely and scatter
+2. Objects have different colors because light contains all colors of visible light and when it hits an object all the colors are absorbed except one, which we see when the
+   colored light bounces off the object into our eyes
+3.
+4.
+5.
+6.
+7. Visible light is a very small portion of the electromagnetic spectrum, and different colors have different wavelengths. As the wavelength increases, the color changes.
