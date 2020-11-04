@@ -5,8 +5,8 @@ Checkpoint 6: images 2 and 5 are different because 5 is a lot darker. By decreas
 1. Light can pass through an object if it is clear, or reflect off the object specularally like a mirror, or reflect diffusely and scatter
 2. Objects have different colors because light contains all colors of visible light and when it hits an object all the colors are absorbed except one, which we see when the
    colored light bounces off the object into our eyes
-3.
-4.
-5.
-6.
+3. YUV color spaces are more efficient in the coding and reduce render more than RGB
+4. In light color mixing is additive, all the wavelengths still hit your eye, but paints will absorb some of the wavelengths the other colors reflect, and mix subtractively.
+5. 
+6. Tone mapping makes the images look more realistic,
 7. Visible light is a very small portion of the electromagnetic spectrum, and different colors have different wavelengths. As the wavelength increases, the color changes.
